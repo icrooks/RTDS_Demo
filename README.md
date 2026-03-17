@@ -42,7 +42,7 @@ The RTSDK has two API layers. **EMA (Enterprise Message API)** is a high-level C
 go version
 
 # Clone and build
-git clone <this-repo>
+git clone https://github.com/icrooks/RTDS_Demo.git
 cd rtsdk-go-demo
 go build -o bin/ ./...
 
